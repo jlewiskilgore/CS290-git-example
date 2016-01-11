@@ -1,0 +1,6 @@
+Hello.
+
+My name is John "Lewis" Kilgore
+
+This is a test of my GitHub profile to be used during the CS290 Winter 2016 for
+Oregon State University.
