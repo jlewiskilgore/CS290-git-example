@@ -1,1 +1,4 @@
 This is another file to test.
+
+Update: I am adding this new line, then I will commit the change
+to the GitHub repo.
